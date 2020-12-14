@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![jslee02's github stats](https://github-readme-stats.vercel.app/api?username=jslee02)](https://github.com/jslee02)
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jslee02" alt="jslee02" /></a> </p>
 
 <table>
