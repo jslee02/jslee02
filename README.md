@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jslee02" alt="jslee02" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=jslee02)](https://github.com/ryo-ma/github-profile-trophy)
 
 <table>
   <tr>
