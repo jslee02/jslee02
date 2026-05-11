@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jslee02)](https://github.com/ryo-ma/github-profile-trophy)
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=jslee02&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
+<p>
+  <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jslee02&theme=github" />
+</p>
 
-  <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=jslee02&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jslee02&theme=github" />
+  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jslee02&theme=github" />
+</p>
