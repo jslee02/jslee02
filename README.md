@@ -1,27 +1,16 @@
-### Hi there 👋, I'm Jeongseok ("JS")
+# Jeongseok ("JS") Lee
 
-<!--
-**jslee02/jslee02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jslee02)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p>
-  <img alt="GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jslee02&theme=github" />
+<p align="center">
+  <a href="https://github.com/jslee02">
+    <img alt="GitHub contribution activity graph for jslee02" src="https://github-readme-activity-graph.vercel.app/graph?username=jslee02&theme=github-compact&hide_border=true" />
+  </a>
 </p>
 
-<p>
-  <img alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jslee02&theme=github" />
-  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jslee02&theme=github" />
+<p align="center">
+  <a href="https://github.com/jslee02?tab=repositories">
+    <img alt="GitHub stats for jslee02" height="150" src="https://github-readme-stats.vercel.app/api?username=jslee02&show_icons=true&theme=default&hide_border=true" />
+  </a>
+  <a href="https://github.com/jslee02?tab=repositories">
+    <img alt="Top languages for jslee02 repositories" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jslee02&layout=compact&theme=default&hide_border=true" />
+  </a>
 </p>
